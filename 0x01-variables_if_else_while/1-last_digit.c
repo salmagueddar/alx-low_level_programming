@@ -7,7 +7,7 @@
  * whether it is greater than 5, less than 6, or 0
  *
  * return: Always 0 (Success)
- */
+*/
 int main(void)
 {
 	int n;
